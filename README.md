@@ -1,1 +1,1 @@
-# [Course-PT-BR] Computer Vision In Practice
+# Computer Vision In Practice [Course-PT-BR] 
