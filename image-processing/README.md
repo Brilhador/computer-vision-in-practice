@@ -1,3 +1,3 @@
 # Introdução ao Processamento de Imagens com Python e OpenCV
 
-Neste curso, 
+Neste curso, dividido em tutoriais
