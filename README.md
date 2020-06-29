@@ -1,2 +1,1 @@
-# computer-vision-in-practice
-Practical and objective computer vision course.
+# [Course-PT-BR] Computer Vision In Practice
