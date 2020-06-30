@@ -16,8 +16,7 @@
     <td colspan="2">
         <H3>Termos de uso</H3>
         <p>Todo o conteúdo deste curso estão sujeitos a direitos autorais e só podem ser usados para pesquisas não comerciais. Em caso de uso, cite está página.</p>
-        <p>> BRILHADOR, A. Computer Vision: in practice. Publicado em 30 de junho de 2020. Disponível em: https://github.com/Brilhador/computer-vision-in-practice</p>
-        <p>```BRILHADOR, A. Computer Vision: in practice. Publicado em 30 de junho de 2020. Disponível em: https://github.com/Brilhador/computer-vision-in-practice´´´</p>
+        <em>BRILHADOR, A. Computer Vision: in practice. Publicado em 30 de junho de 2020. Disponível em: https://github.com/Brilhador/computer-vision-in-practice</em>
         <p>Para mais informações entre em contato com Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br).</p>
     </td>
 </tr>
