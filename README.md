@@ -1,7 +1,7 @@
 <!-- # Visão Computacional na Prática -->
 <!-- ### Computer Vision In Practice [Course-PT-BR] -->
 
-<table width="100%" border="0" bgcolor="white">
+<table width="100%" border="0">
 <tr>
     <td>
         <H2>Visão Computacional na Prática</H2>
@@ -11,6 +11,7 @@
         <img src="/figures/logo-cvp.png" align="center" alt="" width="100%"/>
     </td>
 </tr>
+<tr></tr>
 <tr>
     <td colspan="2">
         <H3>Termos de uso</H3>
