@@ -1,8 +1,8 @@
 # Computer Vision In Practice [Course-PT-BR] 
 
-<img src="figures/logocvp.jpg" align="center" alt="" width="75%"/>
+<img src="/figures/logo-cvp.png" align="center" alt="" width="75%"/>
 
-![](figures/logocvp.jpg)
+![teste](/figures/logo-cvp.png)
 
 
 # REQUIREMENTS
