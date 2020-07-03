@@ -46,7 +46,7 @@
 </tr>
 <tr>
     <td>
-    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/03-image-histograms.ipynb">3.Histogramas e Equalização de Histogramas</a>
+    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/03-image-histograms.ipynb">3. Histogramas e Equalização de Histogramas</a>
     </td>
     <td>
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/b-questions/03-image-histogram-questions.ipynb">Lista 3</a>
@@ -57,7 +57,7 @@
 </tr>
 <tr>
     <td>
-    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/04-image-blurring.ipynb">4.Suavização de imagens digitais</a>
+    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/04-image-blurring.ipynb">4. Suavização de imagens digitais</a>
     </td>
     <td>
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/b-questions/04.image-blurring-questions.ipynb">Lista 4</a>
