@@ -12,7 +12,7 @@
     </td>
 </tr>
 <tr>
-    <th>
+    <th colspan="2">
     Lições
     </th>
     <th>
@@ -92,7 +92,7 @@
     </td>
 </tr>
 <tr>
-    <td colspan="3">
+    <td colspan="4">
         <H3>Termos de uso</H3>
         <p>Todo o conteúdo deste curso estão sujeitos a direitos autorais. Em caso de uso, cite está página.</p>
         <p><em>BRILHADOR, A. Computer Vision: in practice. Publicado em 30 de junho de 2020. Disponível em: https://github.com/Brilhador/computer-vision-in-practice</em></p>
