@@ -5,7 +5,7 @@
 <tr>
     <td colspan="2">
         <H2>Visão Computacional na Prática</H2>
-        <p>Um curso prático e objetivo para desenvolvedores e pesquisadores novatos que desejam aprender sobre visão computacional utilizando a linguagem python.</p>
+        <p>Um curso prático e objetivo para desenvolvedores e pesquisadores novatos que desejam aprender sobre visão computacional utilizando a linguagem Python.</p>
     </td>
     <td colspan="2">
         <img src="/figures/logo-cvp.png" align="center" alt="" width="100%"/>
@@ -85,10 +85,15 @@
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/06-image-edge-detection.ipynb">6. Detecção de bordas</a>
     </td>
     <td>
-    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/b-questions/06-image-edge-questions.ipynb">Lista 5</a>
+    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/b-questions/06-image-edge-questions.ipynb">Lista 6</a>
     </td>
     <td>
-    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/c-questions%20solved/06-image-edge-solved.ipynb">Solução lista 5</a>
+    <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/c-questions%20solved/06-image-edge-solved.ipynb">Solução lista 6</a>
+    </td>
+</tr>
+<tr>
+    <td colspan="4">
+        Recomendamos o uso da plataforma https://colab.research.google.com/ para resolução dos exercícios.
     </td>
 </tr>
 <tr>
