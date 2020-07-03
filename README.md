@@ -3,11 +3,11 @@
 
 <table width="100%" border="0" aling="center">
 <tr>
-    <td>
+    <td colspan="2">
         <H2>Visão Computacional na Prática</H2>
         <p>Um curso prático e objetivo para desenvolvedores e pesquisadores novatos que desejam aprender sobre visão computacional utilizando a linguagem python.</p>
     </td>
-    <td colspan="3">
+    <td colspan="2">
         <img src="/figures/logo-cvp.png" align="center" alt="" width="100%"/>
     </td>
 </tr>
@@ -23,6 +23,9 @@
     </th>
 </tr>
 <tr>
+    <td rowspan="6">
+        Módulo 1: Processamento de Imagens Digitais
+    </td>
     <td>
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/a-lesson/01-image-basics.ipynb">1. Noções básicas de imagens digitais</a>
     </td>
@@ -32,9 +35,6 @@
     <td>
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/c-questions%20solved/01-image-basic-solved.ipynb">Solução lista 1</a>
     </td>
-    <td rowspan="6">
-        Módulo 1: Processamento de Imagens Digitais
-    <td>
 </tr>
 <tr>
     <td>
