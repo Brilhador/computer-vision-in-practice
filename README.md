@@ -7,7 +7,7 @@
         <H2>Visão Computacional na Prática</H2>
         <p>Um curso prático e objetivo para desenvolvedores e pesquisadores novatos que desejam aprender sobre visão computacional utilizando a linguagem python.</p>
     </td>
-    <td colspan="2">
+    <td colspan="3">
         <img src="/figures/logo-cvp.png" align="center" alt="" width="100%"/>
     </td>
 </tr>
@@ -32,6 +32,9 @@
     <td>
     <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/c-questions%20solved/01-image-basic-solved.ipynb">Solução lista 1</a>
     </td>
+    <td rowspan="6">
+        Módulo 1: Processamento de Imagens Digitais
+    <td>
 </tr>
 <tr>
     <td>
