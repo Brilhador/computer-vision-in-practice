@@ -1,13 +1,13 @@
 <!-- # Visão Computacional na Prática -->
 <!-- ### Computer Vision In Practice [Course-PT-BR] -->
 
-<table width="100%" border="0">
+<table width="100%" border="0" aling="center">
 <tr>
-    <td colspan="2">
+    <td>
         <H2>Visão Computacional na Prática</H2>
         <p>Um curso prático e objetivo para desenvolvedores e pesquisadores novatos que desejam aprender sobre visão computacional utilizando a linguagem python.</p>
     </td>
-    <td>
+    <td colspan="2">
         <img src="/figures/logo-cvp.png" align="center" alt="" width="100%"/>
     </td>
 </tr>
