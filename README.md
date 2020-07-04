@@ -23,7 +23,7 @@
     </th>
 </tr>
 <tr>
-    <td rowspan="6">
+    <td rowspan="7">
         Módulo 1: Processamento de Imagens Digitais
     </td>
     <td>
@@ -92,7 +92,7 @@
     </td>
 </tr>
 <tr>
-    <th colspan="2">
+    <th colspan="1">
         Desafios
     </th>
     <td colspan="2">
