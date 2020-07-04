@@ -92,6 +92,14 @@
     </td>
 </tr>
 <tr>
+    <th colspan="2">
+        Desafios
+    </th>
+    <td colspan="2">
+        <a href="https://github.com/Brilhador/computer-vision-in-practice/blob/master/image-processing/challenge/01-white-flies.ipynb">Desafio 01: Moscas brancas</a>
+    </td>
+</tr>
+<tr>
     <td colspan="4">
         Recomendamos o uso da plataforma https://colab.research.google.com/ para resolução dos exercícios.
     </td>
